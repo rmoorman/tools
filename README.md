@@ -1,6 +1,6 @@
 # Tools
 
-Installable products and services I use many of, all day, every day. Language compilers and interpreters, as well as products I use at work only, ommitted.
+Products and services I recommend, and use all the time. Language compilers and interpreters ommitted.
 
 To make this list I:
 
