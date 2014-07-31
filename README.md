@@ -4,7 +4,8 @@ Products and services I recommend, and use all the time. Language compilers and 
 
 To make this list I:
 
-- Reordered bookmarks in Chrome
+- Had this all in my Chrome bookmarks
+- Automatically reordered bookmarks in Chrome
 - Exported bookmarks to html in Chrome
 - Find-remove regex with Notepad++, `</?D[LT]/?>`, `</?P/?>` and `^\s+`
 - Paste it in an [html to markdown](http://domchristie.github.io/to-markdown/) converter
