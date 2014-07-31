@@ -97,3 +97,8 @@ To make this list I:
 - [Is it down](http://www.isup.me/)
 - [Stack Overflow](http://stackoverflow.com/)
 - [Wolfram Alpha](http://www.wolframalpha.com/)
+
+### Lists
+
+- ["Awesome Java"](https://github.com/akullpp/awesome-java)
+- ["HN Tool of the Trade"](https://github.com/cjbarber/ToolsOfTheTrade)
