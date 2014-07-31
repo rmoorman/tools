@@ -16,7 +16,7 @@ To make this list I:
 - [Ant](http://ant.apache.org/)
 - [Cassandra](http://cassandra.apache.org/)
 - [CCleaner](https://www.piriform.com/CCLEANER)
-- [Chocolatey Gallery](http://chocolatey.org/)
+- [Chocolatey](http://chocolatey.org/)
 - [Chrome](http://www.google.com/intl/nl/chrome/browser/)
 - [Chrome SSH Plugin](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
 - [Chrome Tineye Plugin](https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl)
