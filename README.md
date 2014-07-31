@@ -28,6 +28,7 @@ To make this list I:
 - [FakeSMTP](http://nilhcem.github.io/FakeSMTP/)
 - [Git](http://git-scm.com/)
 - [GitHub Backup](https://github.com/hbt/github-backup)
+- [Gitlab](https://about.gitlab.com/)
 - [Google Drive](https://tools.google.com/dlpage/drive)
 - [Gradle](http://www.gradle.org/)
 - [IntelliJ](http://www.jetbrains.com/idea/)
