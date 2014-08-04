@@ -48,6 +48,7 @@ To make this list I:
 - [Vagrant](http://www.vagrantup.com/)
 - [Virtualbox](https://www.virtualbox.org/)
 - [WinSCP](http://winscp.net/eng/index.php)
+- [Wireshark](https://www.wireshark.org/download.html)
 
 ## Services
 
