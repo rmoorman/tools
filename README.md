@@ -72,16 +72,22 @@ To make this list I:
 
 - [Popular Javascript Repositories](http://javascript.hew.io/)
 - [Start Bootstrap](http://startbootstrap.com/)
-- [Top Languages](https://github.com/languages/)
+- [WrapBootstrap](https://wrapbootstrap.com/)
+- [Github Top Languages](https://github.com/languages/)
 
 ### Misc
 
 - [Google Apps](http://www.google.com/intx/nl/enterprise/apps/business/)
+- [Google Docs Templates](https://drive.google.com/templates?view=public)
 - [IFTTT](https://ifttt.com/)
 - [Badum tish](http://www.badum-tish.com/)
 - [Fiverr](http://fiverr.com/)
 - [Grooveshark](http://grooveshark.com/)
 - [HootSuite](https://hootsuite.com/dashboard)
+- [No-IP](http://www.noip.com/)
+- [PortCheckTool](http://www.portchecktool.com/)
+- [Regex101](http://regex101.com/)
+- [TLDRLegal](https://tldrlegal.com/)
 
 ### Modelling
 
