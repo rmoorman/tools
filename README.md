@@ -70,6 +70,7 @@ To make this list I:
 
 ### Libraries
 
+- [Bootswatch](http://bootswatch.com/)
 - [Popular Javascript Repositories](http://javascript.hew.io/)
 - [Start Bootstrap](http://startbootstrap.com/)
 - [WrapBootstrap](https://wrapbootstrap.com/)
