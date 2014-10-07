@@ -56,7 +56,6 @@ To make this list I:
 ### Icons
 
 - [ConvertICO](http://www.convertico.com/)
-- [Emoji](http://www.emoji-cheat-sheet.com/)
 - [Findicons](http://findicons.com/)
 - [Glyphicons](http://glyphicons.com/)
 - [Iconfinder](http://www.iconfinder.com/)
@@ -81,6 +80,7 @@ To make this list I:
 
 - [Google Apps](http://www.google.com/intx/nl/enterprise/apps/business/)
 - [Google Docs Templates](https://drive.google.com/templates?view=public)
+- [IDEOne](http://ideone.com/)
 - [IFTTT](https://ifttt.com/)
 - [Badum tish](http://www.badum-tish.com/)
 - [Fiverr](http://fiverr.com/)
