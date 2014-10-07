@@ -13,6 +13,7 @@ To make this list I:
 ## Installables
 
 - [7zip](http://www.7-zip.org/)
+- [BurpSuite](http://portswigger.net/burp/download.html)
 - [CCleaner](https://www.piriform.com/CCLEANER)
 - [Chocolatey](http://chocolatey.org/)
 - [Chrome](http://www.google.com/intl/nl/chrome/browser/)
