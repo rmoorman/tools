@@ -87,13 +87,16 @@ To make this list I:
 - [IDEOne](http://ideone.com/)
 - [IFTTT](https://ifttt.com/)
 - [Badum tish](http://www.badum-tish.com/)
+- [DigitalOcean](https://digitalocean.com/)
 - [Fiverr](http://fiverr.com/)
 - [Grooveshark](http://grooveshark.com/)
 - [HootSuite](https://hootsuite.com/dashboard)
 - [No-IP](http://www.noip.com/)
 - [PortCheckTool](http://www.portchecktool.com/)
 - [Regex101](http://regex101.com/)
+- [Slack](https://slack.com/)
 - [TLDRLegal](https://tldrlegal.com/)
+- [Trello](https://trello.com/)
 
 ### Modelling
 
@@ -111,4 +114,4 @@ To make this list I:
 ### Lists
 
 - ["Awesome Java"](https://github.com/akullpp/awesome-java)
-- ["HN Tool of the Trade"](https://github.com/cjbarber/ToolsOfTheTrade)
+- ["HN Tools of the Trade"](https://github.com/cjbarber/ToolsOfTheTrade)
