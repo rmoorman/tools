@@ -82,6 +82,7 @@ To make this list I:
 
 ### Misc
 
+- [Ghost](https://ghost.io/)
 - [Google Apps](http://www.google.com/intx/nl/enterprise/apps/business/)
 - [Google Docs Templates](https://drive.google.com/templates?view=public)
 - [IDEOne](http://ideone.com/)
