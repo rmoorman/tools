@@ -33,6 +33,7 @@ To make this list I:
 - [Gradle](http://www.gradle.org/)
 - [IntelliJ](http://www.jetbrains.com/idea/)
 - [Java Decompiler](http://jd.benow.ca/)
+- [JHipster](https://jhipster.github.io/)
 - [Wildfly](http://wildfly.org/)
 - [Kanboard](http://kanboard.net/)
 - [Keystore Explorer](http://keystore-explorer.sourceforge.net/)
@@ -52,6 +53,7 @@ To make this list I:
 - [Virtualbox](https://www.virtualbox.org/)
 - [WinSCP](http://winscp.net/eng/index.php)
 - [Wireshark](https://www.wireshark.org/download.html)
+- [Yeoman](http://yeoman.io/)
 
 ## Services
 
@@ -76,7 +78,7 @@ To make this list I:
 - [Popular Javascript Repositories](http://javascript.hew.io/)
 - [Start Bootstrap](http://startbootstrap.com/)
 - [WrapBootstrap](https://wrapbootstrap.com/)
-- [Github Top Languages](https://github.com/languages/)
+- [Github Explore](https://github.com/explore)
 
 ### Misc
 
