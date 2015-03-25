@@ -2,6 +2,8 @@
 
 Products and services I recommend and/or have in use.
 
+Software libraries ommitted.
+
 ## Windows Installables
 
 - [7zip](http://www.7-zip.org/)
@@ -63,7 +65,6 @@ Products and services I recommend and/or have in use.
 ## Services
 
 - [10 Minute Mail](http://10minutemail.com/10MinuteMail/index.html)
-- [At.js](https://github.com/ichord/At.js)
 - [Bootswatch](http://bootswatch.com/)
 - [ConvertICO](http://www.convertico.com/)
 - [EIP](http://www.eaipatterns.com/toc.html)
