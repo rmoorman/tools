@@ -1,18 +1,11 @@
 # Tools
 
-Products and services I recommend, and use all the time. Language compilers and interpreters ommitted.
+Products and services I recommend and/or have in use.
 
-To make this list I:
-
-- Had this all in my Chrome bookmarks
-- Automatically reordered bookmarks in Chrome
-- Exported bookmarks to html in Chrome
-- Find-remove regex with Notepad++, `</?D[LT]/?>`, `</?P/?>` and `^\s+`
-- Paste it in an [html to markdown](http://domchristie.github.io/to-markdown/) converter
-
-## Installables
+## Windows Installables
 
 - [7zip](http://www.7-zip.org/)
+- [Apache Webserver] (https://httpd.apache.org/)
 - [BurpSuite](http://portswigger.net/burp/download.html)
 - [CCleaner](https://www.piriform.com/CCLEANER)
 - [Chocolatey](http://chocolatey.org/)
@@ -32,25 +25,36 @@ To make this list I:
 - [Google Drive](https://tools.google.com/dlpage/drive)
 - [Gradle](http://www.gradle.org/)
 - [IntelliJ](http://www.jetbrains.com/idea/)
+- [Java 6 and up] (http://www.oracle.com/technetwork/java/javaee/downloads/index.html)
 - [Java Decompiler](http://jd.benow.ca/)
 - [JHipster](https://jhipster.github.io/)
-- [Kanboard](http://kanboard.net/)
 - [Keystore Explorer](http://keystore-explorer.sourceforge.net/)
 - [LastPass](https://lastpass.com/)
 - [Maven](http://maven.apache.org/)
 - [Media Player Classic](http://mpc-hc.org/)
+- [Microsoft Office] (https://products.office.com/)
+- [Mosquitto] (http://mosquitto.org/)
+- [Mozilla Firefox] (https://www.mozilla.org/)
 - [MySQL](http://www.mysql.com/)
+- [.Net] (http://www.microsoft.com/net)
+- [NodeJS] (https://nodejs.org/)
 - [Notepad++](http://notepad-plus-plus.org/)
+- [Paint.Net] (http://www.getpaint.net/download.html)
+- [Prey] (https://preyproject.com)
+- [Putty] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 - [Puush](http://puush.me/)
 - [Python](https://www.python.org/downloads/)
+- [Skype] (http://www.skype.com/)
 - [SoapUI](http://www.soapui.org/)
 - [Teamviewer](http://www.teamviewer.com/)
 - [Tomcat](http://tomcat.apache.org/)
 - [Transmission](https://www.transmissionbt.com/)
+- [TightVNC] (http://www.tightvnc.com/)
 - [TortoiseGit](https://code.google.com/p/tortoisegit/)
 - [TortoiseSVN](http://tortoisesvn.net/)
 - [Vagrant](http://www.vagrantup.com/)
 - [Virtualbox](https://www.virtualbox.org/)
+- [Vmware View Client] (https://my.vmware.com/web/vmware/details?productId=268&downloadGroup=VIEW-520-CLIENTS)
 - [Wildfly](http://wildfly.org/)
 - [WinSCP](http://winscp.net/eng/index.php)
 - [Wireshark](https://www.wireshark.org/download.html)
@@ -58,64 +62,32 @@ To make this list I:
 
 ## Services
 
-### Icons
-
-- [ConvertICO](http://www.convertico.com/)
-- [Findicons](http://findicons.com/)
-- [Glyphicons](http://glyphicons.com/)
-- [Iconfinder](http://www.iconfinder.com/)
-
-### Security
-
 - [10 Minute Mail](http://10minutemail.com/10MinuteMail/index.html)
-- [Maltego](http://www.paterva.com/web6/products/maltego.php)
-- [Prey](http://preyproject.com/)
-- [Tails](https://tails.boum.org/index.en.html)
-- [TinEye](http://www.tineye.com/)
-
-### Libraries
-
 - [At.js](https://github.com/ichord/At.js)
 - [Bootswatch](http://bootswatch.com/)
-- [Popular Javascript Repositories](http://javascript.hew.io/)
-- [Start Bootstrap](http://startbootstrap.com/)
-- [WrapBootstrap](https://wrapbootstrap.com/)
+- [ConvertICO](http://www.convertico.com/)
+- [EIP](http://www.eaipatterns.com/toc.html)
+- [Explainshell](http://www.explainshell.com/)
+- [Findicons](http://findicons.com/)
 - [Github Explore](https://github.com/explore)
-
-### Misc
-
-- [Ghost](https://ghost.io/)
+- [Gliffy](http://www.gliffy.com/)
+- [Glyphicons](http://glyphicons.com/)
+- [Grooveshark](http://grooveshark.com/)
+- [Google](http://google.com/)
 - [Google Apps](http://www.google.com/intx/nl/enterprise/apps/business/)
 - [Google Docs Templates](https://drive.google.com/templates?view=public)
-- [IDEOne](http://ideone.com/)
-- [IFTTT](https://ifttt.com/)
-- [Badum tish](http://www.badum-tish.com/)
-- [DigitalOcean](https://digitalocean.com/)
-- [Fiverr](http://fiverr.com/)
-- [Grooveshark](http://grooveshark.com/)
 - [HootSuite](https://hootsuite.com/dashboard)
-- [Ionic Creator](http://creator.ionic.io/)
+- [Iconfinder](http://www.iconfinder.com/)
+- [IFTTT](https://ifttt.com/)
+- [Is it down](http://www.isup.me/)
+- [Maltego](http://www.paterva.com/web6/products/maltego.php)
 - [No-IP](http://www.noip.com/)
-- [PortCheckTool](http://www.portchecktool.com/)
+- [Prey](http://preyproject.com/)
 - [Regex101](http://regex101.com/)
-- [Slack](https://slack.com/)
 - [TLDRLegal](https://tldrlegal.com/)
 - [Trello](https://trello.com/)
-
-### Modelling
-
-- [EIP](http://www.eaipatterns.com/toc.html)
-- [Gliffy](http://www.gliffy.com/)
-- [PlantUML](http://plantuml.net/)
-
-### Search
-
-- [Explainshell](http://www.explainshell.com/)
-- [Is it down](http://www.isup.me/)
+- [TinEye](http://www.tineye.com/)
 - [Stack Overflow](http://stackoverflow.com/)
+- [Start Bootstrap](http://startbootstrap.com/)
 - [Wolfram Alpha](http://www.wolframalpha.com/)
-
-### Lists
-
-- ["Awesome Java"](https://github.com/akullpp/awesome-java)
-- ["HN Tools of the Trade"](https://github.com/cjbarber/ToolsOfTheTrade)
+- [WrapBootstrap](https://wrapbootstrap.com/)
