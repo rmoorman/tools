@@ -62,6 +62,26 @@ Software libraries ommitted.
 - [Wireshark](https://www.wireshark.org/download.html)
 - [Yeoman](http://yeoman.io/)
 
+## Android Installables
+
+- [Gmail] (https://play.google.com/store/search?q=Gmail)
+- [LinkedIn] (https://play.google.com/store/search?q=LinkedIn)
+- [Google Hangouts] (https://play.google.com/store/search?q=Google%20Hangouts)
+- [Whatsapp] (https://play.google.com/store/search?q=Whatsapp)
+- [Mimi] (https://play.google.com/store/search?q=Mimi)
+- [Headspace] (https://play.google.com/store/search?q=Headspace)
+- [Google Chrome] (https://play.google.com/store/search?q=Google%20Chrome)
+- [Youtube] (https://play.google.com/store/search?q=Youtube)
+- [Hotspot Shield] (https://play.google.com/store/search?q=Hotspot%20Shield)
+- [Rabobank] (https://play.google.com/store/search?q=Rabobank)
+- [9292] (https://play.google.com/store/search?q=9292)
+- [Google Maps] (https://play.google.com/store/search?q=Google%20Maps)
+- [Wifi File Transfer] (https://play.google.com/store/search?q=Wifi%20File%20Transfer)
+- [3g Watchdog] (https://play.google.com/store/search?q=3g%20Watchdog)
+- [Nova Launcher] (https://play.google.com/store/search?q=Nova%20Launcher)
+- [Prey] (https://play.google.com/store/search?q=Prey)
+- [Swiftkey] (https://play.google.com/store/search?q=Swiftkey)
+
 ## Services
 
 - [10 Minute Mail](http://10minutemail.com/10MinuteMail/index.html)
