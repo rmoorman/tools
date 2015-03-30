@@ -44,7 +44,7 @@ Software libraries ommitted.
 - [Paint.Net] (http://www.getpaint.net/download.html)
 - [Prey] (https://preyproject.com)
 - [Putty] (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
-- ~~[Puush](http://puush.me/)~~ Puush was hacked on March 29 2015, and installing malware on every host. Do not install Puush, the software is unsafe. Puush is not backed by a development team, only a single person with no sense of security. If you have Puush installed, uninstall it immediately.
+- ~~[Puush](http://puush.me/)~~ Puush was hacked on March 29 2015, installing malware on every host via an update. Do not install Puush, the software is unsafe. Puush is not backed by a development team, only a single person with no sense of security. If you have Puush installed, uninstall it immediately.
 - [Python](https://www.python.org/downloads/)
 - [Skype] (http://www.skype.com/)
 - [SoapUI](http://www.soapui.org/)
