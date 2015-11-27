@@ -8,11 +8,11 @@ Software libraries ommitted.
 
 - [7zip](http://www.7-zip.org/)
 - [Apache Webserver] (https://httpd.apache.org/)
-- [BurpSuite](http://portswigger.net/burp/download.html)
 - [CCleaner](https://www.piriform.com/CCLEANER)
 - [Chocolatey](http://chocolatey.org/)
 - [Chrome](http://www.google.com/intl/nl/chrome/browser/)
 - [Chrome SSH Plugin](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+- [Chrome HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=de)
 - [Chrome Tineye Plugin](https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl)
 - [CutePDF](http://www.cutepdf.com/)
 - [Defraggler](https://www.piriform.com/defraggler)
@@ -29,7 +29,6 @@ Software libraries ommitted.
 - [IntelliJ](http://www.jetbrains.com/idea/)
 - [Java 6 and up] (http://www.oracle.com/technetwork/java/javaee/downloads/index.html)
 - [Java Decompiler](http://jd.benow.ca/)
-- [JHipster](https://jhipster.github.io/)
 - [Keystore Explorer](http://keystore-explorer.sourceforge.net/)
 - [LastPass](https://lastpass.com/)
 - [Maven](http://maven.apache.org/)
@@ -59,7 +58,6 @@ Software libraries ommitted.
 - [Wildfly](http://wildfly.org/)
 - [WinSCP](http://winscp.net/eng/index.php)
 - [Wireshark](https://www.wireshark.org/download.html)
-- [Yeoman](http://yeoman.io/)
 
 ## Android Installables
 
