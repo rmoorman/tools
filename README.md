@@ -83,6 +83,7 @@ Software libraries ommitted.
 
 - [10 Minute Mail](http://10minutemail.com/10MinuteMail/index.html)
 - [Bootswatch](http://bootswatch.com/)
+- [Clearbit](https://dashboard.clearbit.com)
 - [ConvertICO](http://www.convertico.com/)
 - [EIP](http://www.eaipatterns.com/toc.html)
 - [Explainshell](http://www.explainshell.com/)
